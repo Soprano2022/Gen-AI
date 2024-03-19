@@ -14,9 +14,7 @@ MongoDB: MongoDB serves as both an operational and vector database. It efficient
 
 Open Source Models: The project utilizes open-source models for text embedding and vector search, such as SentenceTransformer for generating embeddings and MongoDB's vector search capabilities.
 
-Workflow:
 
-![Screen Shot 2024-03-19 at 11 29 07 PM](https://github.com/Soprano2022/Gen-AI/assets/146518230/12d0006e-3fdb-4e57-bc80-1f0b7af5b445)
 
 
 
